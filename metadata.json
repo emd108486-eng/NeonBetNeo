@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NeonBet Neo",
+  "description": "High-end cyberpunk neon bento grid gaming platform featuring Cyber Slots, Quantum Dice, and Cosmic Crash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
